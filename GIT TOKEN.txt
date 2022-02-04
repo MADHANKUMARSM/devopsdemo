@@ -1,0 +1,4 @@
+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
+
+git config --global user.email madhanmuthukumar@gmail.com
+git config --global user.name MADHANKUMARSM
